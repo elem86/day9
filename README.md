@@ -36,4 +36,5 @@ Today’s project combined two key SQL concepts: table joins and window function
 
 #SQL #DataAnalytics #WindowFunctions #Joins #SQLite #OpenToWork #OneProjectADay #LinkedInLearning #Day9 #AthleteRanking
 
-![image](https://github.com/user-attachments/assets/3916114c-6796-4a51-8385-df4d3b25af85)
+![image](https://github.com/user-attachments/assets/f652a7c4-9162-4e9b-81e8-4b2e16e57d6f)
+
