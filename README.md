@@ -19,7 +19,7 @@ Today’s project combined two key SQL concepts: table joins and window function
 
  - Used INNER and LEFT JOIN to explore how different join types affect the result set
 
- - Applied RANK() and ROW_NUMBER() window functions to:
+ - Applied RANK() window function to:
 
     - Rank athletes globally by time
 
